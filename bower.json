@@ -1,8 +1,8 @@
 {
   "author": "Pascal Precht",
-  "name": "angular-translate",
+  "name": "angular-translate-tf",
   "description": "A translation module for AngularJS",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "homepage": "http://github.com/angular-translate/angular-translate",
   "ignore": [],
   "repository": {
